@@ -1,1 +1,4 @@
 # oryantasyon
+
+
+deneme değişikliği
