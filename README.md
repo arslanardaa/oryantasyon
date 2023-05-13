@@ -1,4 +1,4 @@
 # oryantasyon
 
 
-deneme değişikliği
+deneme değişikliği - yeni brache ait değişiklikler
